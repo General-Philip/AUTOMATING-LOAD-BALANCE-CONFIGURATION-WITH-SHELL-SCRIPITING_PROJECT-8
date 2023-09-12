@@ -1,4 +1,4 @@
-# AUTOMATING-LOAD-BALANCE-CONFIGURATION-WITH-SHELL-SCRIPITING_PROJECT-8
+# AUTOMATING-LOAD-BALANCE-CONFIGURATION-WITH-SHELL-SCRIPTING_PROJECT-8
 
 This project give me a great introduction to automation.
 Below are the steps i followed in implementing this project;
